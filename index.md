@@ -1,11 +1,11 @@
-# Open Source Software - Summer 2019
- Name: Jane Zou(Jialin)
+## Open Source Software - Summer 2019
+## Name: Jane Zou(Jialin)
  
 ## Bio
- Email: zouj5@rpi.edu
- Github Account: jxlyn
- Hobbies: Swimming, play badminton
- Hometown: New York City
+ Email: zouj5@rpi.edu\
+ Github Account: jxlyn\
+ Hobbies: Swimming, play badminton\
+ Hometown: New York City\
  Major: Computer Science
  
 ## Image
