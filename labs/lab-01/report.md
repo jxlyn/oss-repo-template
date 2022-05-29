@@ -24,4 +24,4 @@
 <img width="1243" alt="Screen Shot 2022-05-28 at 5 06 13 PM" src="https://user-images.githubusercontent.com/75590646/170842837-374bf61b-54fc-489a-ae27-33eb6c632d80.png">
 
 # Reflection:
-An open-source project that interests me is YACS.N. I was in RCOS class last semester, I joined YACS.N team and had an opportunity to coorporate with other students to develop new pathway features. The YACS.N is similar to Quacs, but it's developed by students and it would be updated if students come up with new idea about how to improving the website. The experience in YACS.N team
+An open-source project that interests me is YACS.N. For this lab report, I looked back at the stuff I did in YACS.N team. I was in RCOS class last semester, I joined YACS.N team and had an opportunity to coorporate with other students to develop new pathway features. The YACS.N is similar to Quacs, it can be updated if students come up with new idea about how to improving the website. The experience with YACS.N team is wonderful. I had learned new languages - Vue and json through the time I worked with other team members in pathway group.
