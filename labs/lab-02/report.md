@@ -13,3 +13,10 @@
 Spoon-Knife repository: https://github.com/jxlyn/Spoon-Knife.git \
 First 4 levels of Learn Git Branching:
 ![Screen Shot 2022-06-05 at 11 44 51 PM](https://user-images.githubusercontent.com/75590646/172091441-3e24cc59-4e31-4c16-b8fb-0e1d75dd81d6.png)
+
+# Part 3
+repository: https://github.com/jxlyn/PullReq.git  \
+git diff: 
+<img width="660" alt="Screen Shot 2022-06-06 at 1 35 45 AM" src="https://user-images.githubusercontent.com/75590646/172101251-8db137e5-2580-4d9a-b4c5-6d2f750532f7.png">
+git git tag -l: 
+link of OSSProjectIdeas: https://github.com/jxlyn/OSSProjectIdeas.git
