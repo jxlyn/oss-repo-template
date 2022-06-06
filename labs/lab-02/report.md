@@ -10,6 +10,6 @@
 <img width="789" alt="Screen Shot 2022-06-03 at 12 17 43 PM" src="https://user-images.githubusercontent.com/75590646/171905375-7bfc5a8c-6702-440b-9a8d-ebb6bf4d0764.png">
 
 # Part 2
-Spoon-Knife repository: https://github.com/jxlyn/Spoon-Knife.git \\
+Spoon-Knife repository: https://github.com/jxlyn/Spoon-Knife.git \
 First 4 levels of Learn Git Branching:
 ![Screen Shot 2022-06-05 at 11 44 51 PM](https://user-images.githubusercontent.com/75590646/172091441-3e24cc59-4e31-4c16-b8fb-0e1d75dd81d6.png)
