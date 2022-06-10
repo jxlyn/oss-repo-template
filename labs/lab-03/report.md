@@ -14,3 +14,8 @@
 
 
 # Part 2
+Project Name: Yacs.n \
+The number of contributors: 41 \
+Number of lines of code:  75813 \
+The first commit: 2/25/2020, by jshom ![Screen Shot 2022-06-10 at 12 30 22 PM](https://user-images.githubusercontent.com/75590646/173110879-28ee2e65-484d-469c-9023-9904d02939c0.png)
+![Screen Shot 2022-06-10 at 12 30 30 PM](https://user-images.githubusercontent.com/75590646/173110895-f363648e-21b7-4f33-8d6c-f5a5240a4b2f.png)
