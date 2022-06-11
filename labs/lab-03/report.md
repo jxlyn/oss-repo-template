@@ -17,6 +17,6 @@
 Project Name: Yacs.n \
 The number of contributors: 41 \
 Number of lines of code:  75813 \
-The first commit: 2/25/2020, by jshom
+The first commit: 2/25/2020, by jshom \
 The latest commit: 4/10/2022, by RichtXO \
-Current branches: 47 \
+Current branches: 47 
