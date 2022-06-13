@@ -39,7 +39,7 @@ remotes/origin/HEAD -> origin/master remotes/origin/coauthors remotes/origin/col
 
 
 # Gitstats：
-The result from index.html is different from the result I got from the github exercise. The total line number is different and the number of author is not equal to the number of contributor.
+The result from index.html is different from the result I got from the github exercise. The total line number is different and the number of author is not equal to the number of contributor. \
 Yacs.n : 
 ![Screen Shot 2022-06-13 at 3 46 04 PM](https://user-images.githubusercontent.com/75590646/173435159-0cb765eb-2045-4462-a2e8-080066593c2e.png)
 
