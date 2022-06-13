@@ -5,8 +5,7 @@
 ![Screen Shot 2022-06-10 at 11 31 20 AM](https://user-images.githubusercontent.com/75590646/173099982-bca6f6ee-34b5-44c9-84ae-b2d9b14000f3.png)
 
 4. 
-
-
+![Screen Shot 2022-06-12 at 1 41 36 PM](https://user-images.githubusercontent.com/75590646/173246061-94688606-5749-4a67-b8e7-a311f5dacb65.png)
 
 5. Local disk location: ~/Documents/GitHub/CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex/introduction.pdf
 <img width="697" alt="Screen Shot 2022-06-10 at 12 01 24 PM" src="https://user-images.githubusercontent.com/75590646/173106380-d2f49146-f4e6-428c-9d51-4885d5c5f957.png">
@@ -20,3 +19,4 @@ Number of lines of code:  75813 \
 The first commit: 2/25/2020, by jshom \
 The latest commit: 4/10/2022, by RichtXO \
 Current branches: 47 
+
