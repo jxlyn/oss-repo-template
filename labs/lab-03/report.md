@@ -1,5 +1,5 @@
 # Part 1
- wiki: https://github.com/jxlyn/CSCI-4470-OpenSource/wiki 
+ wiki: https://github.com/jxlyn/CSCI-4470-OpenSource/wiki \
 3.
  <img width="1440" alt="Screen Shot 2022-06-10 at 11 30 13 AM" src="https://user-images.githubusercontent.com/75590646/173099771-9d947901-0d54-4812-953b-883ab2cffc2a.png">
 
