@@ -69,8 +69,14 @@ CMakeLists.txt: \
 CMakeLists.txt inside of the MathFunctions:
 <img width="809" alt="Screen Shot 2022-06-18 at 3 40 55 PM" src="https://user-images.githubusercontent.com/75590646/174454878-2bf37dc9-70f8-4b2e-9f14-064eab06af90.png">
 
-<img width="1069" alt="Screen Shot 2022-06-18 at 3 37 57 PM" src="https://user-images.githubusercontent.com/75590646/174454783-14135c35-10ff-408e-897b-d09051e6fa15.png">
-<img width="697" alt="Screen Shot 2022-06-18 at 3 37 51 PM" src="https://user-images.githubusercontent.com/75590646/174454787-8b5521c8-b284-4d00-8274-03b86cd5c065.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 42 51 PM" src="https://user-images.githubusercontent.com/75590646/174454930-f5a06693-33ab-4886-8322-d3143bbdaad3.png">
 
+<img width="697" alt="Screen Shot 2022-06-18 at 3 43 10 PM" src="https://user-images.githubusercontent.com/75590646/174454938-3f89bf89-1194-40f2-b000-921ee91f2f3d.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 3 43 38 PM" src="https://user-images.githubusercontent.com/75590646/174454950-e11baa44-0392-4c48-8b73-5b3844e9507f.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 3 44 37 PM" src="https://user-images.githubusercontent.com/75590646/174454975-acbacba3-005a-453f-911e-0659a6cff472.png">
+
+<img width="1069" alt="Screen Shot 2022-06-18 at 3 46 56 PM" src="https://user-images.githubusercontent.com/75590646/174455069-c32cfd28-7294-40a1-8fe7-f837e900f0a3.png">
 
 
