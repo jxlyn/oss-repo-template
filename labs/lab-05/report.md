@@ -22,3 +22,55 @@ After modifying:
 <img width="809" alt="Screen Shot 2022-06-17 at 12 08 29 PM" src="https://user-images.githubusercontent.com/75590646/174336021-4bc90158-4b06-4470-8716-268e457147a3.png">
 
 # Step 2:
+<img width="1069" alt="Screen Shot 2022-06-18 at 2 05 41 PM" src="https://user-images.githubusercontent.com/75590646/174451127-752f91bc-086d-40a6-b000-95f037b70dd1.png">
+
+CMakeLists.txt: \
+<img width="809" alt="Screen Shot 2022-06-18 at 2 06 01 PM" src="https://user-images.githubusercontent.com/75590646/174451142-c6f64ba9-fece-4bab-ad00-ac6ffbfb0280.png">
+
+CMAkeLists.txt inside of the MathFunctions: 
+<img width="809" alt="Screen Shot 2022-06-18 at 2 07 55 PM" src="https://user-images.githubusercontent.com/75590646/174451168-342562e2-f034-4b7e-a20d-be4ad37adf9a.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 09 08 PM" src="https://user-images.githubusercontent.com/75590646/174451204-63370806-abed-4e9e-92ab-74006734f2fd.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 09 22 PM" src="https://user-images.githubusercontent.com/75590646/174451209-c5a50aa2-2c80-424d-8c03-5216b6dd8675.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 09 56 PM" src="https://user-images.githubusercontent.com/75590646/174451228-d673fd3e-a5c7-44dc-bedc-123974a9733b.png">
+
+# Step 3:
+CMakeLists.txt: \
+<img width="809" alt="Screen Shot 2022-06-18 at 2 49 21 PM" src="https://user-images.githubusercontent.com/75590646/174452391-a08c2c05-c3b0-4a83-8e0f-00d90fad0894.png">
+
+CMakeLists.txt inside of the MathFunctions:
+<img width="809" alt="Screen Shot 2022-06-18 at 2 51 53 PM" src="https://user-images.githubusercontent.com/75590646/174452441-5a4530bd-a2a0-4c3e-a832-4e61e2dab9d3.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 55 10 PM" src="https://user-images.githubusercontent.com/75590646/174452533-849b8756-ace4-45f4-9cc6-4938c0011d88.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 55 21 PM" src="https://user-images.githubusercontent.com/75590646/174452535-5bdef980-de3e-4099-b7d3-0338d928f7c5.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 2 56 05 PM" src="https://user-images.githubusercontent.com/75590646/174452558-551cdb91-1b8c-40b1-8594-248f5c426eb2.png">
+
+# Step 4 :
+CMakeLists.txt: 
+<img width="809" alt="Screen Shot 2022-06-18 at 3 19 32 PM" src="https://user-images.githubusercontent.com/75590646/174453317-42ad9382-a7cd-487b-b8e5-f3f0ce01147b.png">
+
+CMakeLists.txt inside of the MathFunctions:
+<img width="809" alt="Screen Shot 2022-06-18 at 3 20 29 PM" src="https://user-images.githubusercontent.com/75590646/174453723-2cc69f39-aeff-4752-a10e-a0ea56ef2a64.png">
+
+<img width="697" alt="Screen Shot 2022-06-18 at 3 13 06 PM" src="https://user-images.githubusercontent.com/75590646/174453139-453bb0ca-82ed-44c4-9147-af42ad608dc7.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 13 12 PM" src="https://user-images.githubusercontent.com/75590646/174453140-fc1586e9-ef4c-4f8f-b327-2538d57cdcbf.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 13 17 PM" src="https://user-images.githubusercontent.com/75590646/174453148-a5b40f0c-8724-4e52-ab12-074262e7e818.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 13 27 PM" src="https://user-images.githubusercontent.com/75590646/174453150-a84abd79-1700-4dc2-abff-de9dc1c10bef.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 13 31 PM" src="https://user-images.githubusercontent.com/75590646/174453152-dfd3d0a1-97f2-4c71-8d9d-bdee5fb3157d.png">
+
+# Step 5 :
+CMakeLists.txt: \
+<img width="809" alt="Screen Shot 2022-06-18 at 3 39 57 PM" src="https://user-images.githubusercontent.com/75590646/174454841-aae9751c-9d47-46d5-9cff-3e1104752d25.png">
+
+CMakeLists.txt inside of the MathFunctions:
+<img width="809" alt="Screen Shot 2022-06-18 at 3 40 55 PM" src="https://user-images.githubusercontent.com/75590646/174454878-2bf37dc9-70f8-4b2e-9f14-064eab06af90.png">
+
+<img width="1069" alt="Screen Shot 2022-06-18 at 3 37 57 PM" src="https://user-images.githubusercontent.com/75590646/174454783-14135c35-10ff-408e-897b-d09051e6fa15.png">
+<img width="697" alt="Screen Shot 2022-06-18 at 3 37 51 PM" src="https://user-images.githubusercontent.com/75590646/174454787-8b5521c8-b284-4d00-8274-03b86cd5c065.png">
+
+
+
