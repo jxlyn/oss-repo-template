@@ -91,6 +91,9 @@ CMakeLists.txt inside of the MathFunctions:
 
 <img width="697" alt="Screen Shot 2022-06-20 at 11 45 29 PM" src="https://user-images.githubusercontent.com/75590646/174712086-84237cea-f68c-4830-becf-228c0a76021b.png">
 
+My CMakeList doesn't create another one Makefile becuase there's already a Makefile.
+The static executable is 20721 bytes, and the dynamic executable is 20536.
+
 
 
 
