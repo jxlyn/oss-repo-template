@@ -79,4 +79,10 @@ CMakeLists.txt inside of the MathFunctions:
 
 <img width="1069" alt="Screen Shot 2022-06-18 at 3 46 56 PM" src="https://user-images.githubusercontent.com/75590646/174455069-c32cfd28-7294-40a1-8fe7-f837e900f0a3.png">
 
+# Makefile:
+<img width="925" alt="Screen Shot 2022-06-20 at 11 27 08 PM" src="https://user-images.githubusercontent.com/75590646/174711607-c7b95d9f-cc35-471e-b85b-68a9c042c2c8.png">
+<img width="697" alt="Screen Shot 2022-06-20 at 11 39 17 PM" src="https://user-images.githubusercontent.com/75590646/174711613-4ef04b45-e87a-413e-b260-bcb16f98eba6.png">
+<img width="697" alt="Screen Shot 2022-06-20 at 11 39 28 PM" src="https://user-images.githubusercontent.com/75590646/174711620-7d4d4da9-016a-40a6-a23e-bb3f3a8623e0.png">
+
+
 
