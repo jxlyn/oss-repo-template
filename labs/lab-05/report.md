@@ -84,5 +84,14 @@ CMakeLists.txt inside of the MathFunctions:
 <img width="697" alt="Screen Shot 2022-06-20 at 11 39 17 PM" src="https://user-images.githubusercontent.com/75590646/174711613-4ef04b45-e87a-413e-b260-bcb16f98eba6.png">
 <img width="697" alt="Screen Shot 2022-06-20 at 11 39 28 PM" src="https://user-images.githubusercontent.com/75590646/174711620-7d4d4da9-016a-40a6-a23e-bb3f3a8623e0.png">
 
+# CMakeLists.txt:
+<img width="809" alt="Screen Shot 2022-06-20 at 11 43 10 PM" src="https://user-images.githubusercontent.com/75590646/174711826-985bbeae-25e5-471a-a7c7-8c43ae5008dc.png">
+
+<img width="697" alt="Screen Shot 2022-06-20 at 11 45 18 PM" src="https://user-images.githubusercontent.com/75590646/174712085-e7834748-9010-41d2-9f68-66da96bd1ccb.png">
+
+<img width="697" alt="Screen Shot 2022-06-20 at 11 45 29 PM" src="https://user-images.githubusercontent.com/75590646/174712086-84237cea-f68c-4830-becf-228c0a76021b.png">
+
+
+
 
 
