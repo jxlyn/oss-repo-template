@@ -20,6 +20,13 @@ the GPL license is for free software. For the philosphy of Linux, the creator of
 (as an allusion to Unix). The GPL license is free software license, therefore, Linux is using it today.
 
 # Step 7:
+Repository link : https://github.com/jxlyn/lab4_part7_league_stat.git
+
+# Step 8:
+|Website      | License Present |    License    |
+| :---        |    :----:       |          ---: |
+
+
 
 
 
