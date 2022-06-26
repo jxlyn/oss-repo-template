@@ -25,7 +25,11 @@ Repository link : https://github.com/jxlyn/lab4_part7_league_stat.git
 # Step 8:
 |Website      | License Present |    License    |
 | :---        |    :----:       |          ---: |
-
+|https://github.com/rcos/Telescope| Yes |MIT License https://github.com/rcos/Telescope/blob/master/LICENSE |
+|https://github.com/YACS-RCOS/yacs.n | Yes| MIT License https://github.com/YACS-RCOS/yacs.n/blob/master/LICENSE |
+|https://github.com/DangItJason/TutorBase| Yes| MIT License https://github.com/DangItJason/TutorBase/blob/master/LICENSE |
+|https://github.com/wtg/shuttletracker | Yes |GNU Affero General Public License v3.0 https://github.com/wtg/shuttletracker/blob/master/LICENSE |
+|https://github.com/rcos/Venue2 | Yes |MIT License https://github.com/rcos/Venue2/blob/master/LICENSE |
 
 
 
