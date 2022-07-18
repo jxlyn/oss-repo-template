@@ -15,7 +15,7 @@ Question 2:
 <img width="737" alt="Screen Shot 2022-07-18 at 4 45 51 PM" src="https://user-images.githubusercontent.com/75590646/179614312-1dca20c3-9557-4449-ae89-bd44953b1706.png">
 
 3. Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with? \
-   The system that is close to my specific configuration in Nightly Expected is Mac11.x-AppleClang-dbg. It doesn't have any warning, erros, and it passed all tests.
+   The system that is close to my specific configuration in Nightly Expected is Mac11.x-AppleClang-dbg. It doesn't have any warning, errors, and it passed all tests.
 
 <img width="907" alt="Screen Shot 2022-07-18 at 4 53 36 PM" src="https://user-images.githubusercontent.com/75590646/179615642-3cdceb0f-5b33-4770-95da-2cb2d5c53331.png">
 
