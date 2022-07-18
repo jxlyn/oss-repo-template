@@ -43,9 +43,12 @@ Error fixing:\
 
 # Checkpoint 4:
 Repository : https://github.com/jxlyn/cmake-step5
+I generated the test for cmake and txt files.
+
 <img width="697" alt="Screen Shot 2022-07-18 at 6 47 43 PM" src="https://user-images.githubusercontent.com/75590646/179630271-944f3c90-96a9-4a43-b72f-3a1550a9a710.png">
 
 ![Screen Shot 2022-07-18 at 6 50 04 PM](https://user-images.githubusercontent.com/75590646/179630280-cb1c50b2-7b34-4bab-b847-5e81d5dcd617.png)
 
+![Screen Shot 2022-07-18 at 6 59 10 PM](https://user-images.githubusercontent.com/75590646/179630969-3dd3a1d7-8cdf-4b3b-8edc-3f6307bef7c2.png)
 
 
