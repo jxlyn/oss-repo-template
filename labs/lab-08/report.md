@@ -28,3 +28,18 @@ Command line window:
 ![Screen Shot 2022-07-18 at 3 41 26 PM](https://user-images.githubusercontent.com/75590646/179613756-b60793ea-bd6e-40a1-b757-211720462c62.png)
 
 ![Screen Shot 2022-07-18 at 3 41 31 PM](https://user-images.githubusercontent.com/75590646/179613762-ff6e37c3-1a75-4138-bf60-db2664273d34.png)
+
+# Checkpoint 3:
+<img width="1440" alt="Screen Shot 2022-07-18 at 5 12 50 PM" src="https://user-images.githubusercontent.com/75590646/179618354-e06bcdaf-56a1-4f48-9604-8c269c8da96d.png">
+
+What does -VV do?\
+  The -VV will display the specific output for the tests.
+
+Error fixing:\
+  I changed the copyright years from 2000-2020 to 2000-2022.
+<img width="809" alt="Screen Shot 2022-07-18 at 5 22 30 PM" src="https://user-images.githubusercontent.com/75590646/179619709-ea91c3bb-e8b5-4510-8991-6ee0413258ad.png">
+
+<img width="697" alt="Screen Shot 2022-07-18 at 5 23 09 PM" src="https://user-images.githubusercontent.com/75590646/179619913-4ee5150f-a524-4175-9141-9eaed466fa18.png">
+
+# Checkpoint 4:
+
