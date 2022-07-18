@@ -42,7 +42,7 @@ Error fixing:\
 <img width="697" alt="Screen Shot 2022-07-18 at 5 23 09 PM" src="https://user-images.githubusercontent.com/75590646/179619913-4ee5150f-a524-4175-9141-9eaed466fa18.png">
 
 # Checkpoint 4:
-Repository : https://github.com/jxlyn/cmake-step5
+Repository : https://github.com/jxlyn/cmake-step5 \
 I generated the test for cmake and txt files.
 
 <img width="697" alt="Screen Shot 2022-07-18 at 6 47 43 PM" src="https://user-images.githubusercontent.com/75590646/179630271-944f3c90-96a9-4a43-b72f-3a1550a9a710.png">
