@@ -42,6 +42,14 @@ Documents:
 <img width="893" alt="Screen Shot 2022-07-30 at 10 16 27 PM" src="https://user-images.githubusercontent.com/75590646/182006810-b0fef835-57e4-464f-b871-65f708d1ae8b.png">
 
 Revision:
+<img width="697" alt="Screen Shot 2022-07-30 at 10 36 26 PM" src="https://user-images.githubusercontent.com/75590646/182007583-27267645-6862-4d7f-ab2e-4b1e54fde76d.png">
+
+Documents in Detail:
+
+
+
+<img width="697" alt="Screen Shot 2022-07-30 at 10 36 26 PM" src="https://user-images.githubusercontent.com/75590646/182007268-3ef42a4a-9e26-478c-bfc0-8f0c38aba941.png">
+
 
 
 
