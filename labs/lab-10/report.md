@@ -56,5 +56,8 @@ Attachments: \
 Replication: \
 <img width="893" alt="Screen Shot 2022-07-31 at 12 31 37 AM" src="https://user-images.githubusercontent.com/75590646/182010167-3568d848-e55b-47b4-94f8-97173e0d386c.png">
 
+# Checkpoint 4:
+<img width="697" alt="Screen Shot 2022-07-31 at 12 35 35 AM" src="https://user-images.githubusercontent.com/75590646/182010301-036102dc-4064-46d2-94f7-7ae8e99ee7a7.png">
+
 
 
