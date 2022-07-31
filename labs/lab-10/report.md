@@ -33,23 +33,25 @@ Triggering Replication:
 
 <img width="697" alt="Screen Shot 2022-07-30 at 10 03 45 PM" src="https://user-images.githubusercontent.com/75590646/182006591-fff93d6e-47eb-4bcc-b437-e172b9f116ff.png">
 
-Database:
+Database: \
 <img width="1012" alt="Screen Shot 2022-07-30 at 10 07 07 PM" src="https://user-images.githubusercontent.com/75590646/182006593-3016a04d-124b-4075-8a58-8685b4bedb09.png">
 
 <img width="1012" alt="Screen Shot 2022-07-30 at 10 07 41 PM" src="https://user-images.githubusercontent.com/75590646/182006599-66ec9c70-e3a2-479a-a64d-1af862281b3a.png">
 
-Documents:
+Documents: \
 <img width="893" alt="Screen Shot 2022-07-30 at 10 16 27 PM" src="https://user-images.githubusercontent.com/75590646/182006810-b0fef835-57e4-464f-b871-65f708d1ae8b.png">
 
-Revision:
+Revision: \
 <img width="697" alt="Screen Shot 2022-07-30 at 10 36 26 PM" src="https://user-images.githubusercontent.com/75590646/182007583-27267645-6862-4d7f-ab2e-4b1e54fde76d.png">
 
-Documents in Detail:
 
+Documents in Detail: \
+<img width="879" alt="Screen Shot 2022-07-30 at 11 25 37 PM" src="https://user-images.githubusercontent.com/75590646/182008542-750b3518-0e8c-4e8d-8de5-edf40b9b15f9.png">
 
+Attachments: \
+<img width="879" alt="Screen Shot 2022-07-30 at 11 29 56 PM" src="https://user-images.githubusercontent.com/75590646/182008625-fc6eb809-24ee-49f7-86dd-21a40a45f753.png">
 
-<img width="697" alt="Screen Shot 2022-07-30 at 10 36 26 PM" src="https://user-images.githubusercontent.com/75590646/182007268-3ef42a4a-9e26-478c-bfc0-8f0c38aba941.png">
-
+<img width="746" alt="Screen Shot 2022-07-30 at 11 31 20 PM" src="https://user-images.githubusercontent.com/75590646/182008656-6666bcda-e482-4b9a-8f9a-e7cccf9f896d.png">
 
 
 
