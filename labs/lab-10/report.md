@@ -57,7 +57,20 @@ Replication: \
 <img width="893" alt="Screen Shot 2022-07-31 at 12 31 37 AM" src="https://user-images.githubusercontent.com/75590646/182010167-3568d848-e55b-47b4-94f8-97173e0d386c.png">
 
 # Checkpoint 4:
-<img width="697" alt="Screen Shot 2022-07-31 at 12 35 35 AM" src="https://user-images.githubusercontent.com/75590646/182010301-036102dc-4064-46d2-94f7-7ae8e99ee7a7.png">
+
+1. 
+<img width="697" alt="Screen Shot 2022-07-31 at 1 16 48 AM" src="https://user-images.githubusercontent.com/75590646/182011290-07a1d745-01eb-485c-b932-1e932a302027.png">
+
+2. 
+<img width="697" alt="Screen Shot 2022-07-31 at 1 17 54 AM" src="https://user-images.githubusercontent.com/75590646/182011337-35848c8c-4afe-483a-ae12-5bd0f7362f68.png">
+
+3.
+<img width="676" alt="Screen Shot 2022-07-31 at 1 20 17 AM" src="https://user-images.githubusercontent.com/75590646/182011399-5fe8c945-195d-4e89-9e1e-4e19971a1811.png">
+
+4.
+<img width="676" alt="Screen Shot 2022-07-31 at 1 20 17 AM" src="https://user-images.githubusercontent.com/75590646/182011652-1af1e59a-b2a6-4d70-a456-3a4d62b50dea.png">
+
+5.
 
 
 
