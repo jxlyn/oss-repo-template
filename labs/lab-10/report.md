@@ -25,16 +25,15 @@ Running Mango Query:
 ![Screen Shot 2022-07-30 at 9 57 07 PM](https://user-images.githubusercontent.com/75590646/182006379-71d64fd3-4a56-44e9-b378-39a71d27d898.png)
 
 
-
 Triggering Replication:
+
 ![Screen Shot 2022-07-30 at 10 01 42 PM](https://user-images.githubusercontent.com/75590646/182006481-8fb59c87-caaa-4ded-852e-a112cee1d5f9.png)
 
 # Checkpoint 3:
-<img width="697" alt="Screen Shot 2022-07-30 at 10 03 45 PM" src="https://user-images.githubusercontent.com/75590646/182006506-87f637df-95f4-49e1-8b61-e1cda66d3e97.png">
 
-Database:
 <img width="697" alt="Screen Shot 2022-07-30 at 10 03 45 PM" src="https://user-images.githubusercontent.com/75590646/182006591-fff93d6e-47eb-4bcc-b437-e172b9f116ff.png">
 
+Database:
 <img width="1012" alt="Screen Shot 2022-07-30 at 10 07 07 PM" src="https://user-images.githubusercontent.com/75590646/182006593-3016a04d-124b-4075-8a58-8685b4bedb09.png">
 
 <img width="1012" alt="Screen Shot 2022-07-30 at 10 07 41 PM" src="https://user-images.githubusercontent.com/75590646/182006599-66ec9c70-e3a2-479a-a64d-1af862281b3a.png">
