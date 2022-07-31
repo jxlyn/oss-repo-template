@@ -54,6 +54,7 @@ Attachments: \
 <img width="746" alt="Screen Shot 2022-07-30 at 11 31 20 PM" src="https://user-images.githubusercontent.com/75590646/182008656-6666bcda-e482-4b9a-8f9a-e7cccf9f896d.png">
 
 Replication: \
+<img width="893" alt="Screen Shot 2022-07-31 at 12 31 37 AM" src="https://user-images.githubusercontent.com/75590646/182010167-3568d848-e55b-47b4-94f8-97173e0d386c.png">
 
 
 
