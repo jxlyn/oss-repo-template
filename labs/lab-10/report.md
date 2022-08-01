@@ -67,10 +67,14 @@ Replication: \
 3.
 <img width="676" alt="Screen Shot 2022-07-31 at 1 20 17 AM" src="https://user-images.githubusercontent.com/75590646/182011399-5fe8c945-195d-4e89-9e1e-4e19971a1811.png">
 
-4.
-<img width="676" alt="Screen Shot 2022-07-31 at 1 20 17 AM" src="https://user-images.githubusercontent.com/75590646/182011652-1af1e59a-b2a6-4d70-a456-3a4d62b50dea.png">
+<img width="697" alt="Screen Shot 2022-07-31 at 10 26 54 PM" src="https://user-images.githubusercontent.com/75590646/182060583-6ebf98bc-d8a3-44d7-b64d-d6654b41099b.png">
 
-5.
+4.
+<img width="576" alt="Screen Shot 2022-07-31 at 10 22 23 PM" src="https://user-images.githubusercontent.com/75590646/182060213-471e0df2-dd6e-4fc2-8a6e-6d48fabb5aa7.png">
+
+
+
+
 
 
 
