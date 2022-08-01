@@ -72,7 +72,7 @@ Replication: \
 4.
 <img width="576" alt="Screen Shot 2022-07-31 at 10 22 23 PM" src="https://user-images.githubusercontent.com/75590646/182060213-471e0df2-dd6e-4fc2-8a6e-6d48fabb5aa7.png">
 
-
+<img width="669" alt="Screen Shot 2022-07-31 at 10 36 45 PM" src="https://user-images.githubusercontent.com/75590646/182061520-30433a4c-03fe-4d79-9229-464fdcfcd970.png">
 
 
 
