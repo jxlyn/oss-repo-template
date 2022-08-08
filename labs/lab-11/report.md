@@ -40,4 +40,11 @@ Use the trained model:\
 <img width="1316" alt="Screen Shot 2022-08-07 at 9 15 29 PM" src="https://user-images.githubusercontent.com/75590646/183320252-93b299c2-d6ba-4c5a-92f4-23916fdd7fbf.png">
 
 # Checkpoint 3:
+![Screen Shot 2022-08-07 at 10 48 45 PM](https://user-images.githubusercontent.com/75590646/183328547-35a4c8ad-4f98-456f-9e12-16e78757501a.png)
+
+![Screen Shot 2022-08-07 at 10 48 50 PM](https://user-images.githubusercontent.com/75590646/183328566-4004859a-3829-4cf5-9994-c45baa51c8bd.png)
+
+![Screen Shot 2022-08-07 at 10 48 53 PM](https://user-images.githubusercontent.com/75590646/183328581-3909ea8e-d98b-4ff4-9d5b-9af5563ef8c2.png)
+
+<img width="1312" alt="Screen Shot 2022-08-07 at 10 49 09 PM" src="https://user-images.githubusercontent.com/75590646/183328596-69441db3-9b61-4c72-92be-5efc52edb194.png">
 
