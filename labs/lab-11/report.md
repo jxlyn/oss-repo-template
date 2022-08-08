@@ -39,3 +39,5 @@ Use the trained model:\
  The information for the 15 images from 9000-9014 instead of for images 0-11:\
 <img width="1316" alt="Screen Shot 2022-08-07 at 9 15 29 PM" src="https://user-images.githubusercontent.com/75590646/183320252-93b299c2-d6ba-4c5a-92f4-23916fdd7fbf.png">
 
+# Checkpoint 3:
+
