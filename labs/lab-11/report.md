@@ -36,5 +36,6 @@ Use the trained model:\
 
 <img width="875" alt="Screen Shot 2022-08-07 at 6 56 30 PM" src="https://user-images.githubusercontent.com/75590646/183314238-cef31933-950d-4129-a983-d446a221b539.png">
 
- The information for the 15 images from 9000-9014 instead of for images 0-11:
+ The information for the 15 images from 9000-9014 instead of for images 0-11:\
+<img width="1316" alt="Screen Shot 2022-08-07 at 9 15 29 PM" src="https://user-images.githubusercontent.com/75590646/183320252-93b299c2-d6ba-4c5a-92f4-23916fdd7fbf.png">
 
